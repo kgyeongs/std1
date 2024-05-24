@@ -1,0 +1,12 @@
+GET https://conlab.visitkorea.or.kr
+
+###
+POST https://gw.conlab.visitkorea.or.kr/v3/category/find-root-categories
+Content-Type: application/json
+X-CONLAB-KEY: 1aab26da-b980-4c1a-8a89-7799c8bcd42e
+
+{
+
+}
+
+###
